@@ -1,0 +1,20 @@
+.document {
+	background-color: #282c34;
+	min-height: 100vh;
+}
+
+.editor {
+	margin: 25px;
+	padding: 25px;
+	background-color: white;
+	min-height: 100vh;
+}
+
+.tools {
+	margin: 15px 25px;
+}
+
+#back_button {
+	margin-left: 5px;
+	margin-top: 5px;
+}
